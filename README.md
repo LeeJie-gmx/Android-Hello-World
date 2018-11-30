@@ -1,7 +1,7 @@
 # Android-Hello-World
 只是一个测试仓库
 
-##启动一个Activity的几种方式
+##Intent
 
 1. **最常见的：**
 
