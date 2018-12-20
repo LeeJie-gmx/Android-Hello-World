@@ -1,0 +1,19 @@
+**Chrome://flags(Test on Chrome71-stable)version-1.0**
+[底栏模式，需要重启两次](chrome://flags/#enable-chrome-dute)
+[横版窗口预览卡片](Chrome://flags/#enable-horizontal-tab-switcher)
+[新的长按菜单样式](chrome://flags/#enable-custom-context-menu)
+![长按普通链接](https://wx2.sinaimg.cn/large/00764ytygy1fyd0493afaj30u01fq0vp.jpg)
+![长按图片1](https://wx1.sinaimg.cn/large/00764ytygy1fyd03idf4fj30u01fzwh9.jpg)
+![长按图片2](https://wx4.sinaimg.cn/large/00764ytygy1fyd03immk8j30u01g9ju7.jpg)
+[Google版的常用网址导航，参考国产浏览器首页的天猫淘宝。不建议开启，丑的一批](chrome://flags/#explore-sites)
+[显示文章推荐，可换源，洁癖可以disable](chrome://flags/#enable-ntp-remote-suggestion)
+
+
+
+
+
+
+
+
+
+
